@@ -45,4 +45,4 @@
 🤝 Contact
 Yusuf - [GitHub Profile](https://github.com/Yusufsw1)
 
-Project Link: [github.com/Yusufsw1/Receipt-Manager-Tracker](https://github.com/Yusufsw1/56ThrifShop)
+Project Link: [github.com/Yusufsw1/56ThrifShop](https://github.com/Yusufsw1/56ThrifShop)
