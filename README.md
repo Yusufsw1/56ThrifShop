@@ -1,6 +1,6 @@
 # 👕 56ThrifShop: Curated Thrift & E-Commerce Experience
 
-![Banner](https://socialify.git.ink/Yusufsw1/56ThrifShop/image?description=1&font=Inter&name=1&owner=1&pattern=Plus&theme=Dark)
+
 
 **56ThrifShop** adalah platform e-commerce khusus produk thrifting yang dibangun dengan fokus pada kecepatan dan user experience yang elegan. Aplikasi ini menghubungkan inventory barang unik dengan sistem pembayaran yang terintegrasi.
 
