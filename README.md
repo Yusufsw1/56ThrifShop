@@ -32,13 +32,17 @@
    ```bash
    git clone [https://github.com/Yusufsw1/56ThrifShop.git](https://github.com/Yusufsw1/56ThrifShop.git)
 
-2.Install dependensi:
+2. Install dependensi:
    ```bash
     npm install
-```
 
 3. Set .env.local dengan kredensial Supabase Anda.
+   
 4. Jalankan aplikasi:
    ```bash
    npm run dev
 
+🤝 Contact
+Yusuf - [GitHub Profile](https://github.com/Yusufsw1)
+
+Project Link: [github.com/Yusufsw1/Receipt-Manager-Tracker](https://github.com/Yusufsw1/56ThrifShop)
