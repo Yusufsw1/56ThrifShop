@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👕 56ThrifShop: Curated Thrift & E-Commerce Experience
 
-## Getting Started
+![Banner](https://socialify.git.ink/Yusufsw1/56ThrifShop/image?description=1&font=Inter&name=1&owner=1&pattern=Plus&theme=Dark)
 
-First, run the development server:
+**56ThrifShop** adalah platform e-commerce khusus produk thrifting yang dibangun dengan fokus pada kecepatan dan user experience yang elegan. Aplikasi ini menghubungkan inventory barang unik dengan sistem pembayaran yang terintegrasi.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Fitur Unggulan
+- **Seamless Authentication**: Integrasi dengan Supabase Auth untuk keamanan akun pengguna.
+- **Dynamic Catalog**: Fetching data produk secara real-time dari PostgreSQL.
+- **Shopping Cart System**: Pengelolaan keranjang belanja yang persisten di sisi klien.
+- **Optimized Image Loading**: Menggunakan Next/Image untuk performa loading gambar produk yang cepat.
+- **Responsive Web Design**: Pengalaman belanja yang konsisten di perangkat mobile maupun desktop.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
+- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) & [Shadcn/UI](https://ui.shadcn.com/)
+- **Database**: [Supabase](https://supabase.com/) (PostgreSQL)
+- **Validation**: [Zod](https://zod.dev/) & [React Hook Form](https://react-hook-form.com/)
+- **State**: React Context / Zustand
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📦 Struktur Folder
+```text
+├── app/              # Routing & Server Components
+├── components/       # UI Components (Button, Input, Card, dll)
+├── lib/              # Konfigurasi Supabase & Utility functions
+├── public/           # Aset gambar & icon
+└── hooks/            # Custom React hooks
