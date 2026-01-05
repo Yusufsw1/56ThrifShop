@@ -25,3 +25,20 @@
 ├── lib/              # Konfigurasi Supabase & Utility functions
 ├── public/           # Aset gambar & icon
 └── hooks/            # Custom React hooks
+```
+
+🏁 Cara Menjalankan Lokal
+1. Clone repository:
+   ```bash
+   git clone [https://github.com/Yusufsw1/56ThrifShop.git](https://github.com/Yusufsw1/56ThrifShop.git)
+
+2.Install dependensi:
+   ```bash
+    npm install
+```
+
+3. Set .env.local dengan kredensial Supabase Anda.
+4. Jalankan aplikasi:
+   ```bash
+   npm run dev
+
